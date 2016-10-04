@@ -1,0 +1,21 @@
+# Site settings
+title: New Chapters
+header-img: img/home-bg.png
+email: msegovia94@gmail.com
+copyright_name: marielsegovia
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  marielsegovia
+learn_profile: marielsegovia
+email_username: msegovia94@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
