@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Git with it"
-date:   2016-10-20 07:29:01 +0000
+date:   2016-10-20 03:29:02 -0400
 ---
 
 
